@@ -1,0 +1,14 @@
+echo __pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+.env
+data/
+*.csv
+*.pt
+*.pth
+*.h5
+*.ckpt
+.DS_Store > .gitignore
+__pycache__/
